@@ -1,90 +1,120 @@
-# zibon_tool_bookmark
-This repo only contains the readme with links to various tools. 
+# 🔖 Developer Tools Bookmark Collection
 
+A curated collection of useful web development tools and resources.
 
-GENERATORS:
+---
 
-    Text Content Generator - http://www.lipsum.com
-    Favicon Generator - http://tools.dynamicdrive.com/favicon
-    Data Generator - https://mockaroo.com/
-    Mobile Mockup Generator - https://mockuphone.com
-    Logo Generator - https://www.logaster.com
-    UUID Generator - https://www.uuidgenerator.net/
-    Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
-    Ultimate Code Generator - https://webcode.tools/
+## 📑 Table of Contents
 
-IMAGE RESOURCES:
+- [Generators](#-generators)
+- [Image Resources](#-image-resources)
+- [Code Optimization](#-code-optimization)
+- [Converters](#-converters)
+- [Image Compression](#-image-compression)
+- [Validation & Compatibility](#-validation--compatibility)
+- [In Browser Coding](#-in-browser-coding)
+- [Snippet Tools](#-snippet-tools)
+- [Color & Design](#-color--design)
+- [Responsiveness](#-responsiveness)
+- [Wireframe](#-wireframe)
+- [Speed Test](#-speed-test)
+- [Other Resources](#-other-resources)
 
-    Free Stock Images - https://www.pexels.com
-    Free Stock Images With Great API - https://unsplash.com/
-    Free- Vectors, mockups - https://www.freepik.com
-    Dummy Image Placeholders - https://source.unsplash.com/
-    Dummy Image Placeholders - https://placeholder.com
-    Free Icons - https://www.iconfinder.com
+---
 
-CODE OPTIMIZATION:
+## 🎲 Generators
 
-    Minify JS & CSS - http://minifier.org
-    Code Optimization Tools - https://codebeautify.org
-    Code Diff Checker - https://www.diffchecker.com
+- [**Lipsum**](http://www.lipsum.com) - Text content generator
+- [**Favicon Generator**](http://tools.dynamicdrive.com/favicon) - Create favicons for your website
+- [**Mockaroo**](https://mockaroo.com/) - Realistic data generator
+- [**Mockuphone**](https://mockuphone.com) - Mobile device mockup generator
+- [**Logaster**](https://www.logaster.com) - Logo design generator
+- [**UUID Generator**](https://www.uuidgenerator.net/) - Generate unique identifiers
+- [**SHA256 Hash Generator**](https://passwordsgenerator.net/sha256-hash-generator/) - Hash generator tool
+- [**Webcode Tools**](https://webcode.tools/) - Ultimate code generator suite
 
-CONVERTERS:
+## 🖼️ Image Resources
 
-    ES6+ & JSX Compiler - https://babeljs.io/repl
-    Sass Converter - https://www.sassmeister.com/
-    Less Converter & More - http://www.webtoolkitonline.com
-    Markdown Editor - https://stackedit.io
-    Jade Converter - http://www.html2jade.org/
+- [**Pexels**](https://www.pexels.com) - Free stock images
+- [**Unsplash**](https://unsplash.com/) - Free stock images with powerful API
+- [**Freepik**](https://www.freepik.com) - Free vectors, photos, and mockups
+- [**Unsplash Source**](https://source.unsplash.com/) - Dummy image placeholders
+- [**Placeholder.com**](https://placeholder.com) - Simple image placeholders
+- [**Iconfinder**](https://www.iconfinder.com) - Free and premium icons
 
-IMAGE COMPRESSION:
+## ⚡ Code Optimization
 
-    Compress All Images - https://compressor.io/compress
-    Compress JPG - http://jpeg-optimizer.com/
-    Compress PNG - https://tinypng.com/
+- [**Minifier**](http://minifier.org) - Minify JavaScript & CSS
+- [**Code Beautify**](https://codebeautify.org) - Comprehensive code optimization tools
+- [**Diffchecker**](https://www.diffchecker.com) - Compare code differences
 
-VALIDATION & COMPATIBILITY:
+## 🔄 Converters
 
-    Validate HTML - https://validator.w3.org
-    Validate CSS - https://jigsaw.w3.org/css-validator
-    Check Browser Compatibility - https://caniuse.com/
-    ES6+ Compatibility Table - https://kangax.github.io/compat-table/es6/
+- [**Babel REPL**](https://babeljs.io/repl) - ES6+ & JSX compiler
+- [**SassMeister**](https://www.sassmeister.com/) - Sass to CSS converter
+- [**Web Toolkit Online**](http://www.webtoolkitonline.com) - LESS converter and more
+- [**StackEdit**](https://stackedit.io) - In-browser Markdown editor
+- [**HTML2Jade**](http://www.html2jade.org/) - HTML to Jade/Pug converter
 
-IN BROWSER CODING:
+## 🗜️ Image Compression
 
-    Client Side Code - https://codepen.io
-    Client Side Code - https://jsfiddle.net
-    Client Side Code - http://liveweave.com
-    Server Side Code - https://repl.it
+- [**Compressor.io**](https://compressor.io/compress) - Compress all image formats
+- [**JPEG Optimizer**](http://jpeg-optimizer.com/) - Optimize JPEG images
+- [**TinyPNG**](https://tinypng.com/) - Compress PNG images
 
-SNIPPET TOOLS:
+## ✅ Validation & Compatibility
 
-    Snippet Manager - https://gist.github.com
-    Snippet Manager - https://pastebin.com
+- [**W3C HTML Validator**](https://validator.w3.org) - Validate HTML markup
+- [**W3C CSS Validator**](https://jigsaw.w3.org/css-validator) - Validate CSS stylesheets
+- [**Can I Use**](https://caniuse.com/) - Browser compatibility checker
+- [**ES6 Compatibility Table**](https://kangax.github.io/compat-table/es6/) - JavaScript feature support
 
-COLOR & DESIGN:
+## 💻 In Browser Coding
 
-    Create Color Schemes - https://color.hailpixel.com
-    Get Color Schemes of Websites - http://stylifyme.com
-    Create Gradients - https://uigradients.com
-    CSS Button Generator - http://css3buttongenerator.com
-    HTML Entity Lookup - http://entity-lookup.leftlogic.com/
+- [**CodePen**](https://codepen.io) - Frontend code playground
+- [**JSFiddle**](https://jsfiddle.net) - Test HTML, CSS, and JavaScript
+- [**Liveweave**](http://liveweave.com) - HTML5, CSS3, and JavaScript playground
+- [**Repl.it**](https://repl.it) - Multi-language online IDE
 
-RESPONSIVENESS:
+## 📝 Snippet Tools
 
-    Device Testing - http://www.responsinator.com
-    What's My Browser Size - https://www.webpagefx.com/tools/whats-my-browser-size/
+- [**GitHub Gist**](https://gist.github.com) - Code snippet manager with version control
+- [**Pastebin**](https://pastebin.com) - Share code snippets
 
-WIREFRAME:
+## 🎨 Color & Design
 
-    In Browser Wireframing - https://app.moqups.com
-    Very Basic In Browser Wireframing - https://wireframe.cc
+- [**Hail Pixel**](https://color.hailpixel.com) - Create beautiful color schemes
+- [**Stylify Me**](http://stylifyme.com) - Extract color schemes from websites
+- [**UI Gradients**](https://uigradients.com) - Beautiful gradient generator
+- [**CSS3 Button Generator**](http://css3buttongenerator.com) - Generate CSS buttons
+- [**HTML Entity Lookup**](http://entity-lookup.leftlogic.com/) - Find HTML entities
 
-SPEED TEST:
+## 📱 Responsiveness
 
-    Speed & Performance Testing - https://tools.keycdn.com/speed
-    Pingdom Speed Test - https://tools.pingdom.com/
+- [**Responsinator**](http://www.responsinator.com) - Test responsive design on multiple devices
+- [**What's My Browser Size**](https://www.webpagefx.com/tools/whats-my-browser-size/) - Check viewport dimensions
 
-OTHER:
+## 📐 Wireframe
 
-    Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
-    Organized Docs for all Popular Web Technologies - https://devdocs.io
+- [**Moqups**](https://app.moqups.com) - Professional wireframing tool
+- [**Wireframe.cc**](https://wireframe.cc) - Minimal wireframing tool
+
+## ⚡ Speed Test
+
+- [**KeyCDN Speed Test**](https://tools.keycdn.com/speed) - Website speed and performance testing
+- [**Pingdom**](https://tools.pingdom.com/) - Website monitoring and speed testing
+
+## 🔧 Other Resources
+
+- [**Public APIs**](https://github.com/toddmotto/public-apis) - Comprehensive list of public APIs
+- [**DevDocs**](https://devdocs.io) - Unified documentation for popular web technologies
+
+---
+
+## 📄 License
+
+This is a public bookmark collection. Feel free to use and share these resources.
+
+## 🤝 Contributing
+
+Feel free to submit pull requests to add more useful tools and resources!
