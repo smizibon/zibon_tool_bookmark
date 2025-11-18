@@ -22,6 +22,12 @@ A curated collection of useful web development tools and resources.
 
 ---
 
+## 🎲 Community 
+
+- [**QR Code Generator**](https://qr-code.io/qr-codes) - QR Code Generator
+
+
+
 ## 🎲 Generators
 
 - [**Lipsum**](http://www.lipsum.com) - Text content generator
